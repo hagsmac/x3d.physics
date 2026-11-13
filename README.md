@@ -1,3 +1,5 @@
+> **This repository is the `x3d.physics/` folder of [x3d.loom](https://github.com/hagopjay/x3d.loom), published on its own** (13 Nov 2026). The physics witness (`kit/loom physics`), the profiles `x3d-physics/v1` and `x3d-physics-physx/v1`, laws 41 to 43, `PHYSICS-PLAYBOOK.md` and the study card live in x3d.loom, proposed in [PR #38](https://github.com/hagopjay/x3d.loom/pull/38) (draft). Links below that start with `../` point into x3d.loom, and commands such as `kit/loom physics ...` are run from a checkout of it with this folder at `x3d.physics/`. The first commit here is the folder exactly as in that PR (sha256 of the folder `ba4d4daa...`, the candidate the physics witness passed on); the second commit adds this note and nothing else.
+
 # x3d.physics
 
 Two physics bridges built under the Loom, collected so that what they learned stays in the Loom (13 November 2026). The method they added is in [PHYSICS-PLAYBOOK.md](../PHYSICS-PLAYBOOK.md); the witness is `kit/loom physics`; the laws are 41 to 43 and the failure modes 124 to 147 in [LOOM-v1.md](../LOOM-v1.md).
